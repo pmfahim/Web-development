@@ -1,0 +1,13 @@
+.bcimage{
+    width: 80%;
+    height: 500px;
+    margin: 0 auto;
+    border: 1px solid;
+   
+    background: rgb(220, 212, 209) url(./Images/Chrome.ico) no-repeat center center scroll ;
+    background-color: lightgrey;
+    width: 300px;margin: 20px;
+    border: 15px solid green;
+    padding: 50px;
+    
+}
