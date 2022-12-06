@@ -1,13 +1,6 @@
-.menu-containe{}
-.logo{}
-.menu{list-style-type: none;
-display: inline-block;
-float: right;
+.cal{
+    width: 700px;
 }
-.menu li{
-    display: inline;
-}
-.menu li a{
-    padding: 0 10px;
-    text-decoration: none;
+ #display{
+
 }
